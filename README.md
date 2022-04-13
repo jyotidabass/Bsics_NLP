@@ -1,1 +1,1 @@
-# Bsics_NLP
+# Basics_NLP
